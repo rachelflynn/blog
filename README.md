@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Not So Secret Life of Rachel Flynn
 
 You can use the [editor on GitHub](https://github.com/rachelflynn/blog/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
