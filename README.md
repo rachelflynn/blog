@@ -1,3 +1,8 @@
+---
+layout: default
+title: Blog
+---
+
 ## The Not So Secret Life of Rachel Flynn
 
 <html>
@@ -26,10 +31,7 @@
 </body>
 </html>
 
----
-layout: default
-title: Blog
----
+
 <h1>Latest Posts</h1>
 
 <ul>
@@ -43,4 +45,4 @@ title: Blog
 
 -------
 
-### *This page is work in progress. See you soon!*
+### *This page is a work in progress. See you soon!*
