@@ -1,8 +1,3 @@
----
-layout: default
-title: Blog
----
-
 ## The Not So Secret Life of Rachel Flynn
 
 <html>
@@ -28,11 +23,8 @@ title: Blog
 	});
 	userFeed.run();
 	</script>
-</body>
-</html>
-
-
-<h1>Latest Posts</h1>
+<div>
+	<h1>Latest Posts</h1>
 
 <ul>
   {% for post in site.posts %}
@@ -42,6 +34,10 @@ title: Blog
     </li>
   {% endfor %}
 </ul>
+</div>
+
+</body>
+</html>
 
 -------
 
