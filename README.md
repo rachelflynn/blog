@@ -18,7 +18,7 @@
 		get: 'user',
 		target: "instafeed-container",
     	resolution: 'low_resolution',
-	limit: 8,
+	limit: 12,
 		accessToken: 'IGQVJWWXpZAMWtMRk9iNWlhbXZAibE96MjcyajVZAWjJrX0ZAOMW5oQkQ4NEJwc2lUR3ZAqeUd1ZAE1zd0RGVElMTUc5MlJnRTl2ZADlUWmlSNkxSZAU5ja0ctWXREQkFnTFJQUDZAFM1ktemtxM2ZAOR1dJSVdObwZDZD'
 	});
 	userFeed.run();
